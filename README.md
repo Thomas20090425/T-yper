@@ -93,6 +93,18 @@ Use responsibly and follow the rules of the platforms or institutions you intera
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=Thomas20090425%2FT-yper&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Thomas20090425/T-yper&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Thomas20090425/T-yper&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Thomas20090425/T-yper&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
 <div align="center">
 
 ### Made by Yuecheng Ma
@@ -100,3 +112,4 @@ Use responsibly and follow the rules of the platforms or institutions you intera
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+T-yper+%E2%9C%A8" alt="Footer Typing SVG" />
 
 </div>
+
